@@ -2,5 +2,7 @@ project:
   title: "OCCUPI"
   type: website
   output-dir: docs
-
+format:
+  pdf:
+    pdf-engine: xelatex
 editor: visual
